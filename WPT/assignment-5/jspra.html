@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #s{
+            color:blue;
+        }
+        .c{
+            display: flex;
+           margin-top: 20px;
+          
+             justify-content: center;
+            align-items: center; 
+            
+            height: 100px;
+            width: 100px;
+            background-color: rgb(101, 205, 231);
+        }
+       /* #count{
+                
+        }  */
+        .sub{
+            margin-top: 20px;
+            margin-left: 10px;
+        }
+    </style>
+    <script>
+     function counter(){
+        let count=0;
+
+        return function(){return count+=1;};
+
+        
+     }
+     let add=counter();
+ 
+     function myfun(){
+    document.getElementById("count").innerHTML=add()
+        let currentcount=add();
+       if(cout>5){
+        alert("limit end");
+       }
+
+     }
+    </script>
+</head>
+<body>
+    <h2 id="s">Sakshi Ghodekar</h2>
+    <button type="submit" onclick='document.getElementById("s").innerHTML="sakshi kaple"'>Change the name</button>
+    
+    <div class="c">
+      <p id="count">&#128512; </p>
+    </div>
+    <div id="p"initial-scale>  </div>
+    <button class="sub"type="submit"onclick="myfun()">Click</button>
+
+</body>
+</html>
