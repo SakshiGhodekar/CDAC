@@ -1,0 +1,32 @@
+.a{
+    background-color: lightblue;
+    /* height: 50px;
+    //width: 50px; */
+    border-style: groove;
+    display: inline;
+    width: 100%;
+
+
+    
+}
+body{
+    background-color:grey;
+   
+   
+    
+}
+
+
+.container{
+    display: inline-block; 
+}
+.left{
+    
+    background-color: palegoldenrod;
+    /* display:inline-block; */
+}
+.right{
+   
+    background-color: palegoldenrod;
+    /* display:inline-block; */
+}

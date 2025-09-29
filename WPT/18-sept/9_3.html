@@ -1,0 +1,24 @@
+<!-- 3) in 2nd Assignment -  display data depends on parameter
+   Accept id from user  -->
+
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ajax</title>
+   </head>
+   <body>
+     enter id :<input type="text"id="t">
+     <button onclick="data()">show</button>
+     <p id="p"></p>
+
+     <script>
+      function data(){
+        let id=document.getElementById("t").value
+        document.getElementById("p").innerHTML=id
+        
+      }
+     </script>
+   </body>
+   </html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Scrolling Quote Animation</title>
+  <style>
+    #quote {
+      position: relative;  
+      width: 400px;
+      padding: 20px;
+      background-color: #d0f0fd;
+      font-family: 'Georgia', serif;
+      font-size: 24px;
+      color: #333366;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      white-space: nowrap; 
+      overflow: hidden;
+      user-select: none;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 5px;
+      border: none;
+      background-color: #4a90e2;
+      color: white;
+    }
+    button:hover {
+      background-color: #357abd;
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+
+<div id="quote">"scrolling the line"</div>
+<button id="start">click</button>
+
+<script>
+  $(document).ready(function () {
+    $("#start").click(function () {
+      let $quote = $("#quote");
+      let distance = 400; 
+      let duration = 1000; 
+      let times = 4;       
+
+   
+      $quote.stop(true, true).css("left", 0);
+
+      function scrollLeftToRight(count) {
+        if (count === 0) {
+         
+          $quote.animate({ left: 0 }, duration);
+          return;
+        }
+
+        $quote.animate({ left: distance }, duration, function () {
+          $quote.animate({ left: 0 }, duration, function () {
+            scrollLeftToRight(count - 1);
+          });
+        });
+      }
+
+      scrollLeftToRight(times);
+    });
+  });
+</script>
+
+</body>
+</html>

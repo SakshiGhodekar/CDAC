@@ -1,0 +1,36 @@
+<!-- 2) Display Timer on Browser using callback function setInterval -->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Timer with setInterval</title>
+    <style>
+        #timer {
+            font-size: 48px;
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1> Timer</h1>
+    <div id="timer">0</div>
+
+    <script>
+        let count = 0;
+
+        // Function to update the timer
+        function updateTimer() {
+            count++;
+            document.getElementById('timer').textContent = count;
+        }
+
+        // Call updateTimer every 1000 milliseconds (1 second)
+        setInterval(updateTimer, 1000);
+    </script>
+
+</body>
+</html>

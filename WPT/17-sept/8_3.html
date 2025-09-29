@@ -1,0 +1,84 @@
+  <!-- 3. Using Jquery accept num: table from and table upto in 3 textfields
+for ex num=5 from= 1to =5
+On click of show button
+Show maths table in html table with a border and 2 columns
+5*1 = 5
+5*2 10
+5*3 15
+5*4 20
+5*5 25 -->
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Multiplication Table</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      border: 1px solid black;
+      width: 300px;
+      margin-top: 20px;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+  <script
+    src="https://code.jquery.com/jquery-3.7.1.js"
+    integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+    crossorigin="anonymous"
+  ></script>
+  <script>
+    $(document).ready(function () {
+      $("button").click(function () {
+        let num = parseInt($("#n").val());
+        let from = parseInt($("#from").val());
+        let to = parseInt($("#to").val());
+
+        // Validation
+        if (
+          isNaN(num) ||
+          isNaN(from) ||
+          isNaN(to) ||
+          from > to ||
+          from < 1 ||
+          to < 1
+        ) {
+          alert("Please enter valid numbers and ensure 'from' ≤ 'to' and positive.");
+          return;
+        }
+
+        let html = "<thead><tr><th>Expression</th><th>Result</th></tr></thead><tbody>";
+
+        for (let i = from; i <= to; i++) {
+          html += `<tr><td>${num} * ${i}</td><td>${num * i}</td></tr>`;
+        }
+        html += "</tbody>";
+
+        $("#t1").html(html);
+      });
+    });
+  </script>
+</head>
+<body>
+  <label>
+    Enter number: <input type="text" id="n" />
+  </label>
+  <label>
+    From: <input type="text" id="from" />
+  </label>
+  <label>
+    To: <input type="text" id="to" />
+  </label>
+  <button>Show</button>
+
+  <table id="t1"></table>
+</body>
+</html>

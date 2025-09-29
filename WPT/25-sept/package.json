@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "hbs": "^4.2.0"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "type":"module",
+  "main": "post1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,38 @@
+<!-- 1) use ajax concept and display data in html page 
+  on button click from text file  -->
+
+  <html>
+<body>
+
+    Enter a Name <input type="text" required id="t1">
+
+    <button onclick="showdata()">Display</button>
+
+    <p id="p1">Data </p>
+
+</body>
+
+<script>
+
+    function showdata() {
+
+       let request=new XMLHttpRequest();
+
+       
+        request.open("get","https://jsonplaceholder.typicode.com/posts")
+        request.send()
+        
+        request.onload=function(){
+            console.log(this.responseText);
+        }
+        // let r =JSON.parse("https://fake-json-api.mock.beeceptor.com/users");
+        // console.log(r);
+    }
+
+    
+    
+
+</script>
+
+
+</html>

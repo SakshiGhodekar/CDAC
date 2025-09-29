@@ -1,0 +1,49 @@
+<!-- 3) Take 1 Button and when user click on that button display 
+   How many times user click and display that count in <p> tag 
+
+	if user click 10 times then make that button readonly using style  -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Click Counter</title>
+    <style>
+        body{
+            background-color: azure;
+        }
+        #clickBtn {
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+
+        .readonly {
+            pointer-events: none;       
+            opacity: 0.6;             
+            cursor: not-allowed;      
+        }
+    </style>
+</head>
+<body>
+
+   
+    
+    <button id="clickBtn">Click Me</button>
+    <p>You clicked <span id="count">0</span> times.</p>
+
+    <script>
+        let count = 0;
+
+        const button = document.getElementById('clickBtn');
+        const countDisplay = document.getElementById('count');
+
+        button.addEventListener('click', () => {
+            count++;
+            countDisplay.textContent = count;
+
+            if (count >= 10) {
+                button.classList.add('readonly');
+            }
+        });
+    </script>
+
+</body>
+</html>

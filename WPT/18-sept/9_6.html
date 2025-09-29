@@ -1,0 +1,56 @@
+<!-- 6) apply the css to html elements with help of methods 
+
+	addClass()
+	removeClass()
+	toggleClass() -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>jQuery addClass, removeClass, toggleClass Demo</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    .highlight {
+      background-color: yellow;
+      font-weight: bold;
+    }
+    .red-text {
+      color: red;
+    }
+    .blue-bg {
+      background-color: lightblue;
+    }
+  </style>
+</head>
+<body>
+
+  <p id="myPara">Hello</p>
+
+  <button id="btnAdd">Add </button>
+  <button id="btnRemove">Remove</button>
+  <button id="btnToggle">Toggle</button>
+  <button id="btnToggleBg">Toggle Class</button>
+
+  <script>
+    $(document).ready(function() {
+      $('#btnAdd').click(function() {
+        $('#myPara').addClass('highlight');
+      });
+
+      $('#btnRemove').click(function() {
+        $('#myPara').removeClass('highlight');
+      });
+
+      $('#btnToggle').click(function() {
+        $('#myPara').toggleClass('red-text');
+      });
+
+      $('#btnToggleBg').click(function() {
+        $('#myPara').toggleClass('blue-bg');
+      });
+    });
+  </script>
+
+</body>
+</html>

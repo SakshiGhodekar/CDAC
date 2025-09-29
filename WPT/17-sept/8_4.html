@@ -1,0 +1,40 @@
+ <!-- Using Jquery animate() API , write a div that has a nice quote in a nice font , color and size . Run the scroller from left to right 4 times , then R to L
+
+On click of the button -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            background-color: aquamarine;
+            height: 100px;
+            width: 100px;
+            font-family: 'Courier New', Courier, monospace;
+
+        }
+    </style>
+  
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function(){
+            
+            $("button").click(function(){
+                $("div").animate({left:'200px'},5000)
+                $("#d").html(<h2>beautifull flower</h2>)
+            });
+        });
+    </script>
+
+</head>
+<body>
+    <div id="d"></div>
+    <button>Click</button>
+
+
+    
+</body>
+</html>

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Calculator</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      text-align: center;
+      padding-top: 50px;
+    }
+
+    #calculator {
+      display: inline-block;
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    input[type="text"] {
+      width: 200px;
+      height: 40px;
+      font-size: 24px;
+      text-align: right;
+      margin-bottom: 10px;
+    }
+
+    .btn {
+      width: 45px;
+      height: 45px;
+      margin: 5px;
+      font-size: 18px;
+      cursor: pointer;
+    }
+
+    .btn-operator {
+      background-color: #f2a33c;
+    }
+
+    .btn-equal {
+      background-color: #4CAF50;
+      color: white;
+    }
+
+    .btn-clear {
+      background-color: #f44336;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="calculator">
+    <input type="text" id="display" readonly>
+
+    <br>
+
+    <!-- Number and Operator Buttons -->
+    <button class="btn">7</button>
+    <button class="btn">8</button>
+    <button class="btn">9</button>
+    <button class="btn btn-operator">/</button>
+
+    <br>
+
+    <button class="btn">4</button>
+    <button class="btn">5</button>
+    <button class="btn">6</button>
+    <button class="btn btn-operator">*</button>
+
+    <br>
+
+    <button class="btn">1</button>
+    <button class="btn">2</button>
+    <button class="btn">3</button>
+    <button class="btn btn-operator">-</button>
+
+    <br>
+
+    <button class="btn">0</button>
+    <button class="btn">.</button>
+    <button class="btn btn-equal">=</button>
+    <button class="btn btn-operator">+</button>
+
+    <br>
+
+    <button class="btn btn-clear" id="clear">C</button>
+  </div>
+
+  <script>
+    $(document).ready(function() {
+      let display = $('#display');
+
+      // Handle button click
+      $('.btn').not('.btn-equal, .btn-clear').click(function() {
+        let value = $(this).text();
+        display.val(display.val() + value);
+      });
+
+      // Handle '=' button
+      $('.btn-equal').click(function() {
+        try {
+          let result = eval(display.val());
+          display.val(result);
+        } catch (e) {
+          display.val('Error');
+        }
+      });
+
+      // Handle 'C' button
+      $('#clear').click(function() {
+        display.val('');
+      });
+    });
+  </script>
+
+</body>
+</html>

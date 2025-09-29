@@ -1,0 +1,28 @@
+<!-- 1) Demonstrate Ajax with JQuery Syntax 
+	$("").load()
+	$.get() -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery $.get() Demo</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+<button id="getDataBtn">Get Data</button>
+<div id="result"></div>
+
+<script>
+    $(document).ready(function() {
+        $("#getDataBtn").click(function() {
+            $.get("data.txt", function(data) {
+                $("#result").html(data);
+            }).fail(function() {
+                $("#result").html("Error loading data.");
+            });
+        });
+    });
+</script>
+
+</body>
+</html>

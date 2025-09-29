@@ -1,0 +1,15 @@
+1] pwd -showcase current location
+        path of working directory
+2] whoami - user ---who is using
+3]ls -list of files
+4] mkdir - to make directory
+5] rmdir
+6] ls -lt
+7] ls -ltr =reverse order directory
+          d start means directory and other 9 are permissions
+8] date
+   date +%D
+   date +%T
+   date +%H:%M
+
+ 

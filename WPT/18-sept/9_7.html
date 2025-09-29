@@ -1,0 +1,74 @@
+
+<!-- Take TextField and Multiple Buttons 
+	Create Calculator using all concepts 
+	from HTML , css , JavaScript , JQuery  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <style>
+        button{
+            background-color: purple;
+            color: white;
+            width: 80px;
+            margin-top: 20px;
+            border: 1px solid rgb(209, 169, 169);
+            border-radius: 5px;
+        }
+        input{
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+   enter no : 1 <input type="text"id="t"><br>
+ enter no : 2 <input type="text"id="t1"><br>
+ Total : <input type="text"id="total"readonly>
+   <br>
+   <button id="b1" onclick="add()">Add</button>
+   <button id="b2"onclick="sub()">Substract</button>
+   <button id="b3"onclick="mult()">Mult</button>
+   <button id="b4"onclick="div()">division</button> 
+
+   <script>
+     $(document).ready(function(){
+        $("#b1").click(function(){
+            let a= document.getElementById("t").value
+            let b = document.getElementById("t1").value
+            let c = parseInt(a)+parseInt(b);
+            document.getElementById("total").value=c;
+        }
+        
+    )
+     $("#b2").click(function(){
+            let a= document.getElementById("t").value
+            let b = document.getElementById("t1").value
+            let c = a-b;
+            document.getElementById("total").value=c;
+        }
+        
+    )
+      $("#b3").click(function(){
+            let a= document.getElementById("t").value
+            let b = document.getElementById("t1").value
+            let c = a*b;
+            document.getElementById("total").value=c;
+        }
+        
+    )
+      $("#b4").click(function(){
+            let a= document.getElementById("t").value
+            let b = document.getElementById("t1").value
+            let c = a/b;
+            document.getElementById("total").value=c;
+        }
+        
+    )
+     })
+   </script>
+</body>
+</html>

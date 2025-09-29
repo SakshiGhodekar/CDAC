@@ -1,0 +1,43 @@
+<!-- 2. Using Jquery accept a number from the user in
+  a textfield -on change show the factorial of that number
+   in a <p> tag -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>textfield</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script>
+     $(document).ready(function(){
+        $("button").click(function(){
+           let n= $("#num").val();
+
+           let res = fact(n);
+
+           $("#p1").text("factorial of " + n + " : is" + res);
+           
+        });
+        function fact(n){
+        let fact=1;
+        for(let i=1;i<=n;i++){
+
+         fact=fact*i;
+        }
+         return fact;
+    }
+     });
+
+     
+       
+     
+    </script>
+</head>
+<body>
+    enter the no :<input type="text" id="num">
+    <p id="p1"></p>
+    <button> check</button>
+</body>
+</html>

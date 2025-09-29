@@ -1,0 +1,36 @@
+<!-- check sortex.js  --- sort method 
+
+1.
+Display italics hello in another <p> tag
+Distplay underline hello in third <p> tag -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+       <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+     <script>
+        $(document).ready(function(){
+            $("button").click(function(){
+                $("#p2").html("<i>hello</i>");
+                  $("#p3").html("<u>hello</u>");
+                
+            });
+          ;
+        })
+     </script>
+    </head>
+<body>
+    <p id ="p1"></p>
+    <p id="p2"></p>
+    <p id="p3"></p>
+    <button id="b">click</button>
+</body>
+</html>
+
+
+
+

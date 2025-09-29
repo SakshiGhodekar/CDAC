@@ -1,0 +1,30 @@
+<!-- 4) use HTML predefined Validations 
+     required  , minlength , maxlength 
+    and display error message if data is not properly entered -->
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Validations</title>
+        
+    </head>
+    <body>
+       Enter name <input type="text" id="t" required minlength="1" maxlength="10"> 
+        <button onclick="Show()">Show</button>
+        <p id="p"></p>
+        
+        
+        <script>
+            function Show(){
+         let n= document.getElementById("t");
+       console.log(n.checkValidity());
+       if(n.checkValidity()){
+        document.getElementById("p").innerText=n.value;
+       }else{
+        document.getElementById("p").innerText=n.validationMessage;
+       }
+    };
+        </script>
+    </body>
+    </html>
