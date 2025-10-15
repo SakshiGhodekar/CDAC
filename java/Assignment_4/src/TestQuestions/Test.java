@@ -19,7 +19,7 @@ public class Test {
 			switch (Choice ) {
 			case 1:
 				System.out.println("Enter new Test details ");
-				QueBank.addNewTest()
+				
 				
 			}
 			 
