@@ -7,11 +7,14 @@ import com.demo.enums.Gender;
 
 public class TestPerson {
 public static void main(String[] args) {
-	Person p=new Person(11,"Shalini",Gender.female);
+	Person p=new Person(11,"Sakshi",Gender.female);
+	Person p1=new Person(12,"Diya",Gender.female);
 	System.out.println(p);
 	for(Gender g:Gender.values()) {
 		System.out.println(g);
 	}
+	System.out.println(p1);
+	
 	Scanner sc=new Scanner(System.in);
 	System.out.println("enetr id");
 	int pid=sc.nextInt();
