@@ -17,7 +17,7 @@ public class TestLinkedList {
 	list1.displayList();
 	list1.addNewPos(11, 10);
 	list1.displayList();
-	list1.addValue(30);
+	
 	list1.displayList();
 	
 	}

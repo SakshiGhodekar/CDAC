@@ -77,15 +77,40 @@ public class SinglyLinkedList {
 		 if(index==1) {
 			 head=head.next;
 		 }else {
+			 Node prev=null;
 			 Node temp = head;
-			 for(int i=0 ; temp!=null && i<index-2 ; i++) {
+			 for(int i=0 ; temp!=null && i<index-1 ; i++) {
+				 prev=temp;
 				 temp = temp.next;
 			 }
-			 if( temp!=null && temp.next!=null) {
-				 temp.next=temp.next.next;
+			 if( temp!=null) {
+				 prev.next=temp.next;
+				 temp.next=null;
 			 }
 			 if(temp==null) {
 				 System.out.println("Index is larger than length");
+			 }
+		 }
+	 }
+	 
+	 
+	 public void deleteByValue(int val) {
+		 Node temp = head;
+		 if(head!=null && head.data==val) {
+			 head=head.next;
+			 temp.next=null;
+		 }
+		 else {
+			 Node prev = null;
+			 while(temp!=null && temp.data!=val) {
+				 prev=temp;
+				 temp=temp.next;
+			 }
+			 if(temp!=null) {
+				 prev.next = temp.next;
+				 temp.next = null;
+			 } else {
+				 System.out.println("Element not found");
 			 }
 		 }
 	 }

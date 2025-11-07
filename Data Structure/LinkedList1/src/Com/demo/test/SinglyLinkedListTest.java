@@ -18,9 +18,7 @@ public class SinglyLinkedListTest {
 		list.add(7 , 200);
 		list.addAfter(100 , 100);
 		list.display();
-		list.delete(1);
-		list.delete(21);
-		list.delete(9);
+		list.deleteByValue(100);
 		list.display();
 		System.out.println(list.findLength());
 	}
