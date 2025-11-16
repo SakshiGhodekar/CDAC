@@ -1,19 +1,24 @@
 package com.demo.entity;
 
-public class Student {
+public class Employee implements Comparable<Employee>{
 	private int id;
 	private String name;
 	private int salary;
 	
-	public Student() {
+	public Employee() {
 		super();
 	}
 	
-	public Student(int id, String name, int salary) {
+	public Employee(int id, String name, int salary) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.salary = salary;
+	}
+	
+	@Override
+	public int compareTo(Employee o) {
+		return  this.salary-o.salary;
 	}
 	
 	public int getId() {
@@ -34,7 +39,12 @@ public class Student {
 	public void setSalary(int salary) {
 		this.salary = salary;
 	}
-	
-	
+
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", name=" + name + ", salary=" + salary + "]";
+	}
+
+
 	
 }

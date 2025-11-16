@@ -48,7 +48,7 @@ public class Array2d {
 			System.out.println("sum of ith row="+curRowSum);
 			sum+=curRowSum;
 		}
-		return sum/arr.length;
+		return sum/arr[0].length;
 	}
 	
 	
@@ -65,6 +65,6 @@ public class Array2d {
 			sum+= temp[j];
 			 System.out.println(temp[j]);
 		}
-		return sum/arr[0].length;
+		return sum/arr.length;
 	}
 }
