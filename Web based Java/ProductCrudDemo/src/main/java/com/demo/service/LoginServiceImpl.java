@@ -1,0 +1,20 @@
+package com.demo.service;
+import com.demo.dao.*;
+import com.demo.beans.*;
+
+public class LoginServiceImpl implements LoginService{
+private LoginDao ldao;
+ public LoginServiceImpl() {
+	 ldao=new LoginDaoImpl();
+ }
+@Override
+public User validateUser(String uname, String pass) {
+	// TODO Auto-generated method stub
+	return ldao.validateUser(uname,pass);
+}
+
+
+	
+	
+
+}
