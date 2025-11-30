@@ -3,9 +3,7 @@ import com.demo.beans.*;
 
 
 public interface LoginService {
-
 	
-
-	User validateUser(String uname, String pass);
+	User validateuser(String uname, String pass);
 
 }

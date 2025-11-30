@@ -8,13 +8,9 @@ private LoginDao ldao;
 	 ldao=new LoginDaoImpl();
  }
 @Override
-public User validateUser(String uname, String pass) {
-	// TODO Auto-generated method stub
+public User validateuser(String uname, String pass) {
+	
 	return ldao.validateUser(uname,pass);
 }
-
-
-	
-	
 
 }

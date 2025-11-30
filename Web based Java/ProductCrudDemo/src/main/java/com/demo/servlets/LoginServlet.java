@@ -1,31 +1,45 @@
 package com.demo.servlets;
-import com.demo.beans.*;
-import com.demo.service.*;
+
 import java.io.IOException;
 import java.io.PrintWriter;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-public class LoginServlet extends HttpServlet{
-	public void doPost(HttpServletRequest req,HttpServletResponse res) throws IOException, ServletException {
-		res.setContentType("text/html");
-		PrintWriter out = res.getWriter();
-		String uname=req.getParameter("uname");
-		String pass=req.getParameter("pass");
-		LoginService lser=new LoginServiceImpl();
-		User p= lser.validateUser(uname,pass);
-		if(p!=null) {
-			out.println("valid");
+import com.demo.beans.User;
+import com.demo.service.LoginService;
+import com.demo.service.LoginServiceImpl;
+
+
+
+@WebServlet("/validateUser")
+public class LoginServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+   
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		response.setContentType("text/html");
+		PrintWriter out=response.getWriter();
+		String name=request.getParameter("uname");
+		String pass=request.getParameter("pass");
+
+		LoginService lservice=new LoginServiceImpl();
+		User user =lservice.validateuser(name,pass);
+		if(user!=null && user.getRole().equals("user")) {
+			RequestDispatcher rd=request.getRequestDispatcher("HomePage.jsp");
+			rd.forward(request, response);
+			
+		}else if(user!=null && user.getRole().equals("admin")) {
+			RequestDispatcher rd=request.getRequestDispatcher("ShowProduct");
+			rd.forward(request, response);
 		}else {
-			out.println("invalid");
-			RequestDispatcher rd=req.getRequestDispatcher("Login.html");
-			rd.include(req, res);
+			out.println("<h1>Invalid User</h1>");
+			RequestDispatcher rd=request.getRequestDispatcher("Login.jsp");
+			rd.forward(request, response);
 		}
-		
 	}
 
 }
