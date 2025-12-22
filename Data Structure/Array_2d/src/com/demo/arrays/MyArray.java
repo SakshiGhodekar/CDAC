@@ -164,8 +164,20 @@ public class MyArray {
 		
 	}
 	public boolean isIdentity() {
-		if(arr.length==arr[0].length) {
-			if(i==j &&)
+		for(int i=0;i<arr.length;i++) {
+			for(int j=0;j<arr[0].length;j++) {
+				if(arr.length==arr[0].length) {
+					if(i==j&&arr[i][j]!=1) {
+						return false;
+					}else if(i!=j&&arr[i][j]!=0) {
+						return false;
+					}else {
+						return true;
+					}
+				}
+				
+			}
 		}
+		return true;
 	}
 }

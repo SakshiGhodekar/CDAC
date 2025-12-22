@@ -14,7 +14,7 @@ public class TestArray {
 		System.out.println(obj);
 		obj.add(4);
 		System.out.println(obj);
-		System.out.println("value found at position :"+obj.searchByValue(30));
+		System.out.println("value found at position :"+obj.searchByValue(5));
 //		obj.deleteByPos(2);
 //		System.out.println(obj);
 //		obj.deleteByValue(66);

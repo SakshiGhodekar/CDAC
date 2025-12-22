@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd"
+	xmlns:context="http://www.springframework.org/schema/context">
+	
+	<bean id="sub1" class="com.demo.beans.Subject" >
+		<property name="name" value="maths"></property>
+		<property name="marks" value="98"></property>
+	</bean>
+	
+	<bean id="sub2" class="com.demo.beans.Subject">
+		<property name="name" value="marathi"></property>
+		<property name="marks" value="94"></property>
+	</bean>
+	
+	<bean id="sub3" class="com.demo.beans.Subject">
+		<property name="name" value="science"></property>
+		<property name="marks" value="81"></property>
+	</bean>
+	
+	<bean id="stud1" class="com.demo.beans.Student" init-method="customInit" destroy-method="customDestroy">
+		<property name="id" value="24"></property>
+		<property name="name" value="samarth"></property>
+		<property name="subjects">
+			<set>
+				<ref bean="sub1"></ref>
+				<ref bean="sub2"></ref>
+				<ref bean="sub3"></ref>
+			</set>
+		</property>
+	</bean>
+
+</beans>

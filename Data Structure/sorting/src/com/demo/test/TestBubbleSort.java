@@ -9,7 +9,7 @@ public class TestBubbleSort {
 
 	public static void main(String[] args) {
 		int[] arr = {15,15,14,1,45,2,45,25,78,12,48};
-		BubbleSort.bubbleSortModified(arr);
+		BubbleSort.bubbleSort(arr);
 		System.out.println(Arrays.toString(arr));
 	}
 
