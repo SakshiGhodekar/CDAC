@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "35Demo_MyORM/1.0.0": {
+        "dependencies": {
+          "34Demo_CustomAttributes": "1.0.0"
+        },
+        "runtime": {
+          "35Demo_MyORM.dll": {}
+        }
+      },
+      "34Demo_CustomAttributes/1.0.0": {
+        "runtime": {
+          "34Demo_CustomAttributes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "35Demo_MyORM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "34Demo_CustomAttributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

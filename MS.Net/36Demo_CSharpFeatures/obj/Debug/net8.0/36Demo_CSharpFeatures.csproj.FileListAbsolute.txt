@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\bin\Debug\net8.0\36Demo_CSharpFeatures.exe
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\bin\Debug\net8.0\36Demo_CSharpFeatures.deps.json
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\bin\Debug\net8.0\36Demo_CSharpFeatures.runtimeconfig.json
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\bin\Debug\net8.0\36Demo_CSharpFeatures.dll
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\bin\Debug\net8.0\36Demo_CSharpFeatures.pdb
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\obj\Debug\net8.0\36Demo_CSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\obj\Debug\net8.0\36Demo_CSharpFeatures.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\obj\Debug\net8.0\36Demo_CSharpFeatures.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\obj\Debug\net8.0\36Demo_CSharpFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\obj\Debug\net8.0\36Demo_CSharpFeatures.dll
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\obj\Debug\net8.0\refint\36Demo_CSharpFeatures.dll
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\obj\Debug\net8.0\36Demo_CSharpFeatures.pdb
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\obj\Debug\net8.0\36Demo_CSharpFeatures.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Projects\36Demo_CSharpFeatures\obj\Debug\net8.0\ref\36Demo_CSharpFeatures.dll

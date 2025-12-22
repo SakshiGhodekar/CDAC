@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\Deligates_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\Deligates_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\Deligates_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\Deligates_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\Deligates_Demo.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\bin\Debug\net8.0\Deligates_Demo.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\bin\Debug\net8.0\Deligates_Demo.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\bin\Debug\net8.0\Deligates_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\bin\Debug\net8.0\Deligates_Demo.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\bin\Debug\net8.0\Deligates_Demo.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\Deligates_Demo.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\refint\Deligates_Demo.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\Deligates_Demo.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\Deligates_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\Deligates_Demo\obj\Debug\net8.0\ref\Deligates_Demo.dll

@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\19_EventsandDeligates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\19_EventsandDeligates.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\19_EventsandDeligates.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\19_EventsandDeligates.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\19_EventsandDeligates.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\bin\Debug\net8.0\19_EventsandDeligates.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\bin\Debug\net8.0\19_EventsandDeligates.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\bin\Debug\net8.0\19_EventsandDeligates.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\bin\Debug\net8.0\19_EventsandDeligates.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\bin\Debug\net8.0\19_EventsandDeligates.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\19_EventsandDeligates.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\refint\19_EventsandDeligates.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\19_EventsandDeligates.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\19_EventsandDeligates.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_EventsandDeligates\obj\Debug\net8.0\ref\19_EventsandDeligates.dll

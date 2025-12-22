@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\bin\Debug\net8.0\34Demo_CustomAttributes.deps.json
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\bin\Debug\net8.0\34Demo_CustomAttributes.dll
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\bin\Debug\net8.0\34Demo_CustomAttributes.pdb
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\obj\Debug\net8.0\34Demo_CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\obj\Debug\net8.0\34Demo_CustomAttributes.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\obj\Debug\net8.0\34Demo_CustomAttributes.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\obj\Debug\net8.0\34Demo_CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\obj\Debug\net8.0\34Demo_CustomAttributes.dll
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\obj\Debug\net8.0\refint\34Demo_CustomAttributes.dll
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\obj\Debug\net8.0\34Demo_CustomAttributes.pdb
+C:\Users\Asus\source\repos\Projects\34Demo_CustomAttributes\obj\Debug\net8.0\ref\34Demo_CustomAttributes.dll

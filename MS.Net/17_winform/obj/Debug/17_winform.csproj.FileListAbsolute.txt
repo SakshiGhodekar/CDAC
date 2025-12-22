@@ -1,0 +1,9 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\17_winform\obj\Debug\17_winform.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\17_winform\obj\Debug\_17_winform.Properties.Resources.resources
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\17_winform\obj\Debug\17_winform.csproj.GenerateResource.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\17_winform\obj\Debug\17_winform.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\17_winform\bin\Debug\_17_winform.exe.config
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\17_winform\bin\Debug\_17_winform.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\17_winform\bin\Debug\_17_winform.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\17_winform\obj\Debug\_17_winform.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\17_winform\obj\Debug\_17_winform.pdb

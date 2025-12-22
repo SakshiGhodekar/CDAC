@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\bin\Debug\net8.0\06_OOP_Interface.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\bin\Debug\net8.0\06_OOP_Interface.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\bin\Debug\net8.0\06_OOP_Interface.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\bin\Debug\net8.0\06_OOP_Interface.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\bin\Debug\net8.0\06_OOP_Interface.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\06_OOP_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\06_OOP_Interface.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\06_OOP_Interface.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\06_OOP_Interface.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\06_OOP_Interface.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\06_OOP_Interface.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\refint\06_OOP_Interface.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\06_OOP_Interface.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\06_OOP_Interface.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\06_OOP_Interface\obj\Debug\net8.0\ref\06_OOP_Interface.dll

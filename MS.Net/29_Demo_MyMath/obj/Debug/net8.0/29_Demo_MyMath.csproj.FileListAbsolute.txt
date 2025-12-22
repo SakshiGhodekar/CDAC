@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\bin\Debug\net8.0\29_Demo_MyMath.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\bin\Debug\net8.0\29_Demo_MyMath.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\bin\Debug\net8.0\29_Demo_MyMath.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\obj\Debug\net8.0\29_Demo_MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\obj\Debug\net8.0\29_Demo_MyMath.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\obj\Debug\net8.0\29_Demo_MyMath.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\obj\Debug\net8.0\29_Demo_MyMath.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\obj\Debug\net8.0\29_Demo_MyMath.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\obj\Debug\net8.0\29_Demo_MyMath.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\obj\Debug\net8.0\refint\29_Demo_MyMath.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\obj\Debug\net8.0\29_Demo_MyMath.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\29_Demo_MyMath\obj\Debug\net8.0\ref\29_Demo_MyMath.dll

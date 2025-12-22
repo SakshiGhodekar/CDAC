@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\bin\Debug\net8.0\26_Demo_FileIO.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\bin\Debug\net8.0\26_Demo_FileIO.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\bin\Debug\net8.0\26_Demo_FileIO.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\bin\Debug\net8.0\26_Demo_FileIO.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\bin\Debug\net8.0\26_Demo_FileIO.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\26_Demo_FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\26_Demo_FileIO.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\26_Demo_FileIO.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\26_Demo_FileIO.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\26_Demo_FileIO.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\26_Demo_FileIO.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\refint\26_Demo_FileIO.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\26_Demo_FileIO.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\26_Demo_FileIO.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\26_Demo_FileIO\obj\Debug\net8.0\ref\26_Demo_FileIO.dll

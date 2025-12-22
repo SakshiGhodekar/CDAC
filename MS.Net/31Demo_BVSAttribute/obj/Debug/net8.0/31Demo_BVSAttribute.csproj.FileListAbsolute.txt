@@ -1,0 +1,4 @@
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttribute\obj\Debug\net8.0\31Demo_BVSAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttribute\obj\Debug\net8.0\31Demo_BVSAttribute.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttribute\obj\Debug\net8.0\31Demo_BVSAttribute.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttribute\obj\Debug\net8.0\31Demo_BVSAttribute.csproj.CoreCompileInputs.cache

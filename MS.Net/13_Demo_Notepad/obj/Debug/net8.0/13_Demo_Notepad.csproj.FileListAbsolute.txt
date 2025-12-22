@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\bin\Debug\net8.0\13_Demo_Notepad.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\bin\Debug\net8.0\13_Demo_Notepad.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\bin\Debug\net8.0\13_Demo_Notepad.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\bin\Debug\net8.0\13_Demo_Notepad.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\bin\Debug\net8.0\13_Demo_Notepad.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\13_Demo_Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\13_Demo_Notepad.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\13_Demo_Notepad.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\13_Demo_Notepad.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\13_Demo_Notepad.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\13_Demo_Notepad.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\refint\13_Demo_Notepad.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\13_Demo_Notepad.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\13_Demo_Notepad.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\13_Demo_Notepad\obj\Debug\net8.0\ref\13_Demo_Notepad.dll

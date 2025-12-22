@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\bin\Debug\net8.0\20_Multicaste_Delegate.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\bin\Debug\net8.0\20_Multicaste_Delegate.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\bin\Debug\net8.0\20_Multicaste_Delegate.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\bin\Debug\net8.0\20_Multicaste_Delegate.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\bin\Debug\net8.0\20_Multicaste_Delegate.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\20_Multicaste_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\20_Multicaste_Delegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\20_Multicaste_Delegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\20_Multicaste_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\20_Multicaste_Delegate.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\20_Multicaste_Delegate.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\refint\20_Multicaste_Delegate.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\20_Multicaste_Delegate.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\20_Multicaste_Delegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\19_Multicaste_Delegate\obj\Debug\net8.0\ref\20_Multicaste_Delegate.dll

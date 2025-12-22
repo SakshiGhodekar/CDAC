@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\bin\Debug\net8.0\31Demo_BVSAttributes.deps.json
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\bin\Debug\net8.0\31Demo_BVSAttributes.dll
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\bin\Debug\net8.0\31Demo_BVSAttributes.pdb
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\obj\Debug\net8.0\31Demo_BVSAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\obj\Debug\net8.0\31Demo_BVSAttributes.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\obj\Debug\net8.0\31Demo_BVSAttributes.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\obj\Debug\net8.0\31Demo_BVSAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\obj\Debug\net8.0\31Demo_BVSAttributes.dll
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\obj\Debug\net8.0\refint\31Demo_BVSAttributes.dll
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\obj\Debug\net8.0\31Demo_BVSAttributes.pdb
+C:\Users\Asus\source\repos\Projects\31Demo_BVSAttributes\obj\Debug\net8.0\ref\31Demo_BVSAttributes.dll

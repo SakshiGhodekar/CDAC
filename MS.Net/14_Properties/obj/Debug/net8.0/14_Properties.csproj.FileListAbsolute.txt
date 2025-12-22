@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\bin\Debug\net8.0\14_Properties.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\bin\Debug\net8.0\14_Properties.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\bin\Debug\net8.0\14_Properties.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\bin\Debug\net8.0\14_Properties.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\bin\Debug\net8.0\14_Properties.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\14_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\14_Properties.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\14_Properties.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\14_Properties.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\14_Properties.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\14_Properties.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\refint\14_Properties.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\14_Properties.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\14_Properties.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\14_Properties\obj\Debug\net8.0\ref\14_Properties.dll

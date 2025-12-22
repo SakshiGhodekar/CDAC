@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\bin\Debug\net8.0\03DemoDataTypes.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\bin\Debug\net8.0\03DemoDataTypes.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\bin\Debug\net8.0\03DemoDataTypes.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\bin\Debug\net8.0\03DemoDataTypes.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\bin\Debug\net8.0\03DemoDataTypes.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\03DemoDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\03DemoDataTypes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\03DemoDataTypes.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\03DemoDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\03DemoDataTypes.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\03DemoDataTypes.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\refint\03DemoDataTypes.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\03DemoDataTypes.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\03DemoDataTypes.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\03DemoDataTypes\obj\Debug\net8.0\ref\03DemoDataTypes.dll

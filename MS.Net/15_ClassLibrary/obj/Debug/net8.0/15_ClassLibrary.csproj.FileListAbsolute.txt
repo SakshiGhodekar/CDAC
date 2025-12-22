@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\bin\Debug\net8.0\15_ClassLibrary.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\bin\Debug\net8.0\15_ClassLibrary.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\bin\Debug\net8.0\15_ClassLibrary.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\obj\Debug\net8.0\15_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\obj\Debug\net8.0\15_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\obj\Debug\net8.0\15_ClassLibrary.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\obj\Debug\net8.0\15_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\obj\Debug\net8.0\15_ClassLibrary.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\obj\Debug\net8.0\15_ClassLibrary.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\obj\Debug\net8.0\refint\15_ClassLibrary.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\obj\Debug\net8.0\15_ClassLibrary.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\.net\CSharpDemos\15_ClassLibrary\obj\Debug\net8.0\ref\15_ClassLibrary.dll

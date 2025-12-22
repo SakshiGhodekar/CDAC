@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\bin\Debug\net8.0\30_Demo_Reflection.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\bin\Debug\net8.0\30_Demo_Reflection.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\bin\Debug\net8.0\30_Demo_Reflection.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\bin\Debug\net8.0\30_Demo_Reflection.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\bin\Debug\net8.0\30_Demo_Reflection.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\30_Demo_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\30_Demo_Reflection.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\30_Demo_Reflection.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\30_Demo_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\30_Demo_Reflection.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\30_Demo_Reflection.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\refint\30_Demo_Reflection.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\30_Demo_Reflection.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\30_Demo_Reflection.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\30_Demo_Reflection\obj\Debug\net8.0\ref\30_Demo_Reflection.dll
