@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\Sakshi_Ghodekar_250845920068\\MS.Net\\CSharpDemos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED30B71-A282-4698-842B-8BBD514E1C0B}|48_Demo_Threading\\48_Demo_Threading.csproj|c:\\users\\iet\\desktop\\sakshi_ghodekar_250845920068\\ms.net\\csharpdemos\\48_demo_threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED30B71-A282-4698-842B-8BBD514E1C0B}|48_Demo_Threading\\48_Demo_Threading.csproj|solutionrelative:48_demo_threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9C2092-1378-46D7-8782-35EB84B7E4BF}|50_Demo_Threading\\50_Demo_Threading.csproj|c:\\users\\iet\\desktop\\sakshi_ghodekar_250845920068\\ms.net\\csharpdemos\\50_demo_threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9C2092-1378-46D7-8782-35EB84B7E4BF}|50_Demo_Threading\\50_Demo_Threading.csproj|solutionrelative:50_demo_threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 759,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 445,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Sakshi_Ghodekar_250845920068\\MS.Net\\CSharpDemos\\50_Demo_Threading\\Program.cs",
+              "RelativeDocumentMoniker": "50_Demo_Threading\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Sakshi_Ghodekar_250845920068\\MS.Net\\CSharpDemos\\50_Demo_Threading\\Program.cs",
+              "RelativeToolTip": "50_Demo_Threading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:33:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Sakshi_Ghodekar_250845920068\\MS.Net\\CSharpDemos\\48_Demo_Threading\\Program.cs",
+              "RelativeDocumentMoniker": "48_Demo_Threading\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Sakshi_Ghodekar_250845920068\\MS.Net\\CSharpDemos\\48_Demo_Threading\\Program.cs",
+              "RelativeToolTip": "48_Demo_Threading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:24:41.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

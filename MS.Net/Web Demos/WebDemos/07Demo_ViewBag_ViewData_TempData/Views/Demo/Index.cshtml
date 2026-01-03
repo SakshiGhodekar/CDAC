@@ -1,0 +1,24 @@
+﻿<h1>@ViewBag.message</h1>
+<ul>
+    @{
+        Emp emp = ViewBag.empInfo;
+        <li>@emp.Id</li>
+        <li>@emp.Name</li>
+        <li>@emp.Address</li>
+    }
+
+</ul>
+
+<p>@ViewData["number"]</p>
+
+<ul>
+    @{
+        Emp emp1 = ViewData["emp1"]as Emp;
+        <li>@emp1.Id</li>
+        <li>@emp1.Name</li>
+        <li>@emp1.Address</li>
+    }
+</ul>
+<p>@ViewData["message"]</p>
+
+<p>pin:@TempData["Pin"]</p>

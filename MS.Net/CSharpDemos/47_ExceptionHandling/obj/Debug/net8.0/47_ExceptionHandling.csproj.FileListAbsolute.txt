@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\bin\Debug\net8.0\47_ExceptionHandling.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\bin\Debug\net8.0\47_ExceptionHandling.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\bin\Debug\net8.0\47_ExceptionHandling.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\bin\Debug\net8.0\47_ExceptionHandling.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\bin\Debug\net8.0\47_ExceptionHandling.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\47_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\47_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\47_ExceptionHandling.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\47_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\47_ExceptionHandling.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\47_ExceptionHandling.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\refint\47_ExceptionHandling.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\47_ExceptionHandling.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\47_ExceptionHandling.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\47_ExceptionHandling\obj\Debug\net8.0\ref\47_ExceptionHandling.dll

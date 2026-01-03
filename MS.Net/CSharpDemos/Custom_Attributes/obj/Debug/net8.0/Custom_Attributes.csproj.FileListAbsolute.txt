@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\bin\Debug\net8.0\Custom_Attributes.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\bin\Debug\net8.0\Custom_Attributes.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\bin\Debug\net8.0\Custom_Attributes.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\obj\Debug\net8.0\Custom_Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\obj\Debug\net8.0\Custom_Attributes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\obj\Debug\net8.0\Custom_Attributes.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\obj\Debug\net8.0\Custom_Attributes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\obj\Debug\net8.0\Custom_Attributes.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\obj\Debug\net8.0\Custom_Attributes.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\obj\Debug\net8.0\refint\Custom_Attributes.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\obj\Debug\net8.0\Custom_Attributes.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\Custom_Attributes\obj\Debug\net8.0\ref\Custom_Attributes.dll

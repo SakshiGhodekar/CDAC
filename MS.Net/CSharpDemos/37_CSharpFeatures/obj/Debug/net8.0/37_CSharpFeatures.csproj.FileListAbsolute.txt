@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\bin\Debug\net8.0\37_CSharpFeatures.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\bin\Debug\net8.0\37_CSharpFeatures.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\bin\Debug\net8.0\37_CSharpFeatures.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\bin\Debug\net8.0\37_CSharpFeatures.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\bin\Debug\net8.0\37_CSharpFeatures.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\37_CSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\37_CSharpFeatures.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\37_CSharpFeatures.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\37_CSharpFeatures.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\37_CSharpFeatures.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\37_CSharpFeatures.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\refint\37_CSharpFeatures.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\37_CSharpFeatures.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\37_CSharpFeatures.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\37_CSharpFeatures\obj\Debug\net8.0\ref\37_CSharpFeatures.dll

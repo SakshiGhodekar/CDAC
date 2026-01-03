@@ -1,0 +1,36 @@
+﻿<h1 class="text-info">Emp records</h1>
+
+<div class="container table-responsive">
+
+    <div class="row">
+
+        <div class="col-md-6">
+
+            <table class="table table-bordered table-striped">
+
+                <thead>
+                    <tr>
+                        <th>id</th>
+                        <th>name</th>
+                        <th>address</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var emp in Model)
+                    {
+                        <tr>
+                            <td>@emp.Id</td>
+                            <td>@emp.Name</td>
+                            <td>@emp.Address</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+
+</div>
+

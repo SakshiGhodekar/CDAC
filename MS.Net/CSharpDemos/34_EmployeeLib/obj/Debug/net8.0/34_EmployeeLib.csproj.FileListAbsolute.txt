@@ -1,0 +1,16 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\34_EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\34_EmployeeLib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\34_EmployeeLib.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\34_EmployeeLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\34_EmployeeLib.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\bin\Debug\net8.0\34_EmployeeLib.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\bin\Debug\net8.0\34_EmployeeLib.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\bin\Debug\net8.0\34_EmployeeLib.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\bin\Debug\net8.0\33_CustomAttribute2.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\bin\Debug\net8.0\33_CustomAttribute2.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\34_EmployeeLib.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\34_Emplo.92899B9E.Up2Date
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\34_EmployeeLib.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\refint\34_EmployeeLib.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\34_EmployeeLib.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\34_EmployeeLib\obj\Debug\net8.0\ref\34_EmployeeLib.dll

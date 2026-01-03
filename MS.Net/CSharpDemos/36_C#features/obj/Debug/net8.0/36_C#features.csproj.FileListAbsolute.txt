@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\36_C#features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\36_C#features.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\36_C#features.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\36_C#features.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\36_C#features.sourcelink.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\bin\Debug\net8.0\36_C#features.exe
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\bin\Debug\net8.0\36_C#features.deps.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\bin\Debug\net8.0\36_C#features.runtimeconfig.json
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\bin\Debug\net8.0\36_C#features.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\bin\Debug\net8.0\36_C#features.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\36_C#features.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\refint\36_C#features.dll
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\36_C#features.pdb
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\36_C#features.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sakshi_Ghodekar_250845920068\MS.Net\CSharpDemos\36_C#features\obj\Debug\net8.0\ref\36_C#features.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "35_MyReflection/1.0.0": {
+        "dependencies": {
+          "33_CustomAttribute2": "1.0.0"
+        },
+        "runtime": {
+          "35_MyReflection.dll": {}
+        }
+      },
+      "33_CustomAttribute2/1.0.0": {
+        "runtime": {
+          "33_CustomAttribute2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "35_MyReflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "33_CustomAttribute2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

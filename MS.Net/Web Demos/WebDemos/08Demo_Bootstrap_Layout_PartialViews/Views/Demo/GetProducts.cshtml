@@ -1,0 +1,28 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewData["Title"] = "GetProducts";
+}
+
+<h1 class="text-danger">Online Shopping Page: </h1>
+
+<div class="card" style="width: 18rem;">
+    <img src="~/Images/laptop1.jfif" class="card-img-top" alt="Laptop">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Product.Name</h5>
+        <p class="card-text">@Model.Message</p>
+        @if (Model.isInStock)
+        {
+            <p class="card-text">in Stock</p>
+        }
+        else
+        {
+            <p class="card-text">out of Stock</p>
+        }
+
+        <a href="/Home/PData/@Model.Product.Id" class="btn btn-primary">Product Details</a>
+    </div>
+</div>
